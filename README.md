@@ -250,6 +250,7 @@ footer {
     </div>
 </section>
 
+
 <footer>
     <p>© 2026 Rakesh Mehtha | SAP Security & GRC Specialist</p>
 </footer>
